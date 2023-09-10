@@ -32,8 +32,29 @@ Contains two saved dataset upon finetuning our model.
 - Implemented Penalty Function to punish undesireble action.
 - Rigorous Training and effectively finetuned parameters (epsilon value, episodes, learning rate etc) to achieve maximum output score
 
+# Assignment 2: Prolog Programming
+<img src="Reference/PrologLogo.png"/>
+
+## Problem Definition
+Use Prolog Programming in First Order Logic
+
+## About
+
+This is a project for SC3000 which focuses on developing First Order Logic Induction using Prolog Programming in determining Rivalry Relationship, Royal Family Succession Line.
+
+1. [A33_qn_1_2/rivalry.pl] <br> Given knowledgebase of competitors, product ownership, company ownership etc relationship, deduce if a company owner is unethical and stole competitor's product. <br><br>
+2. [A33_qn_2_1]<br> Given knowledgebase of royalties sibling, parent relationship and royalties identity, deduce the succession line based on gender.
+<br><br>
+3. [A33_qn_2_2]<br> Given knowledgebase of royalties sibling, parent relationship and royalties identity, deduce the succession line based on age.
+<br><br>
+
+## What did we learn from this project?
+
+- Introduction to Prolog Programming.
+- Exercise First Order Logic in facts deduction and induction.
+
 ## Contributors
 
-- @dotalim0204 (Lim Jun Hern, U2120981B) - Debugging and testing, optimize and improve the code structure, create and refine explanations for each block
-- @HLeong12345 (Leong Hong Yi, U2120932C) - Implement Q-Learning Algorithm, optimize Performance by finetuning parameters, create and refine explanations for each block
-- @Jabezng2 (Jabez Ng Yong Xin, U2120757D) - Create and Digitalize Simulation Function, optimize Performance by finetuning parameters, create and refine explanations for each block
+- @dotalim0204 (Lim Jun Hern, U2120981B) 
+- @HLeong12345 (Leong Hong Yi, U2120932C) 
+- @Jabezng2 (Jabez Ng Yong Xin, U2120757D) 
