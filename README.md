@@ -22,7 +22,6 @@ Contains two saved dataset upon finetuning our model.
 
 - Gym
 - NumPy
-- Seaborn
 - Pandas
 - Matplotlib
 
