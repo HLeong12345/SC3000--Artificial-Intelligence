@@ -43,9 +43,9 @@ Use Prolog Programming in First Order Logic
 This is a project for SC3000 which focuses on developing First Order Logic Induction using Prolog Programming in determining Rivalry Relationship, Royal Family Succession Line.
 
 1. [A33_qn_1_2/rivalry.pl] <br> Given knowledgebase of competitors, product ownership, company ownership etc relationship, deduce if a company owner is unethical and stole competitor's product. <br><br>
-2. [A33_qn_2_1]<br> Given knowledgebase of royalties sibling, parent relationship and royalties identity, deduce the succession line based on gender.
+2. [A33_qn_2_1/royalFamily1.pl]<br> Given knowledgebase of royalties sibling, parent relationship and royalties identity, deduce the succession line based on gender.
 <br><br>
-3. [A33_qn_2_2]<br> Given knowledgebase of royalties sibling, parent relationship and royalties identity, deduce the succession line based on age.
+3. [A33_qn_2_2/royalFamily2.pl]<br> Given knowledgebase of royalties sibling, parent relationship and royalties identity, deduce the succession line based on age.
 <br><br>
 
 ## What did we learn from this project?
